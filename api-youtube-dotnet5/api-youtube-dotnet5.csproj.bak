@@ -12,10 +12,10 @@
 
   <ItemGroup>
     <PackageReference Include="DotNetOpenAuth" Version="4.3.4.13329" />
-	  <PackageReference Include="Google.Apis" Version="1.50.0" />
-	  <PackageReference Include="Google.Apis.Auth" Version="1.50.0" />
-    <PackageReference Include="Google.Apis.Core" Version="1.50.0" />
-    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.50.0.2238" />
+    <PackageReference Include="Google.Apis" Version="1.57.0" />z
+    <PackageReference Include="Google.Apis.Auth" Version="1.57.0" />
+    <PackageReference Include="Google.Apis.Core" Version="1.57.0" />
+    <PackageReference Include="Google.Apis.YouTube.v3" Version="1.57.0.2750" />
   </ItemGroup>
 
 </Project>
